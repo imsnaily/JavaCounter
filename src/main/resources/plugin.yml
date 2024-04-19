@@ -1,0 +1,4 @@
+name: JavaCounter
+version: '${project.version}'
+main: snaily.plugins.javacounter.JavaCounter
+api-version: '1.20'
